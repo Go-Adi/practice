@@ -21,6 +21,6 @@ public class MaxElement {
 
     // Driver method
     public static void main(String[] args) {
-        System.out.println("Largest in given array is " + largest());
+        System.out.println("Highest in given array is " + largest());
     }
 }
